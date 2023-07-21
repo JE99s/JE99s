@@ -22,7 +22,7 @@
 
 [twitter]: https://
 [instagram]: https://
-[linkedin]: https://linkedin.com/in/joshmadakor](https://www.linkedin.com/in/jacobluevanos/
+[linkedin]: https://www.linkedin.com/in/jacobluevanos
 
 <!--
 
