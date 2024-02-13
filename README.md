@@ -5,8 +5,8 @@
 - [Apply Encryption and Hashing Algorithms for Secure Communications](https://github.com/JE99s/Encryption_HashingLab)
 - [Simulated SQL Inection Attack On Mutillidae User Info Page](https://github.com/JE99s/Errorbased_SQL_InjectionAttack)
 - [Build Nessus VM to Perform Vulnerability Scanning](https://medium.com/@jl620695lueva/install-and-configure-a-nessus-vulnerability-scanner-on-virtualbox-8614875013dc) 
-- <b>Python</b>
-  - 
+- <b>Coding</b>
+  - [Simple & Fun Higher or Lower Game With Python]
 <h2>📃Certifications</h2>
 - [Google Cybersecurity Certificate](https://www.credly.com/badges/02d646c4-6ca6-41ae-824e-6439d855554f/linked_in_profile)
 <h2>📺 Favorite YouTube Videos</h2>
