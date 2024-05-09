@@ -4,6 +4,7 @@
 
 -  [DIY Virtual Cybersecurity Lab](https://github.com/JE99s/DIY-Virtualized-Cyber-Lab)
 - <b>Exploiting Metasploitable 2 Vulnerabilities</b>
+  - [A Little Bit of Burp Suite](https://github.com/JE99s/A_lil_of_BurpSuite)
   - [Network Scan and Exploitations]
 - [Simulated SQL Inection Attack On Mutillidae User Info Page](https://github.com/JE99s/Errorbased_SQL_InjectionAttack)
 - [Build Nessus VM to Perform Vulnerability Scanning](https://medium.com/@jl620695lueva/install-and-configure-a-nessus-vulnerability-scanner-on-virtualbox-8614875013dc)
