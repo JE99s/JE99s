@@ -1,4 +1,24 @@
-<h1>Hi, I'm Jacob! <br/><a href="https://www.linkedin.com/in/jacobluevanos/">Cybersecurity Student</a>
+# Jacob Luevanos
+
+**`Digital Citizen (IT Enthusiast/Cybersecurity Student)`**
+
+### 🧰 My Toolkit
+
+<img align="left" alt="VirtualBox" width="30px" style="padding-right:30px;" src="https://upload.wikimedia.org/wikipedia/commons/e/ea/Virtualbox_Faenza.svg"/>
+<img align="left" alt="Kali Linux" width="40px" style="padding-right:40px;" src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg"/>
+<img align="left" alt="Wireshark" width="30px" style="padding-right:30px;" src="https://upload.wikimedia.org/wikipedia/commons/d/df/Wireshark_icon.svg"/>
+<img align="left" alt="netcat" width="30px" style="padding-right:30px;" src="https://www.kali.org/tools/netcat/images/netcat-logo.svg"/>
+<img align="left" alt="metasploit" width="30px" style="padding-right:30px;" src="https://www.kali.org/tools/metasploit-framework/images/metasploit-framework-logo.svg"/>
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+<br />
+
+#
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
