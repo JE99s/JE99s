@@ -1,6 +1,6 @@
 # Jacob Luevanos
 
-**`Digital Citizen (Cybersecurity Specialist/)`**
+**`Digital Citizen (Cybersecurity Enthusiast/Cybersecurity Analyst)`**
 
 ### 🧰 My Toolkit
 
