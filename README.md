@@ -33,12 +33,18 @@
 - [Create A Local E-mail Server](https://github.com/JE99s/Create_Your_Local_EmailServer)
 - [Phishing For Credentials](https://github.com/JE99s/Credential_Harvesting)
 - [Plant An Active Directory Forest](https://github.com/JE99s/Plant_An_AD_Forest)
--  [Apply Encryption and Hashing Algorithms for Secure Communications](https://github.com/JE99s/Encryption_HashingLab) 
+- [Apply Encryption and Hashing Algorithms for Secure Communications](https://github.com/JE99s/Encryption_HashingLab)
+- [Enterprise Endpoint Management with OSQuery](https://github.com/JE99s/Endpoint_Management_with_OSQuery) 
 - [Query Searches with Splunk] 
 - <b>Coding</b>
   - [Simple & Fun Higher or Lower Game With Python]
+
+
 <h2>📃Certifications</h2>
+
+- [CompTIA Security+](https://www.credly.com/badges/3a75743c-8a24-421c-b256-b9638499f637/)
 - [Google Cybersecurity Certificate](https://www.credly.com/badges/02d646c4-6ca6-41ae-824e-6439d855554f/linked_in_profile)
+
 <h2>📺 Favorite YouTube Videos</h2>
 
 - [The Internet Protocol | Networking tutorial](https://youtu.be/aamG4-tH_m8)
