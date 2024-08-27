@@ -37,8 +37,11 @@
 - [Apply Encryption and Hashing Algorithms for Secure Communications](https://github.com/JE99s/Encryption_HashingLab)
 - [Enterprise Endpoint Management with OSQuery](https://github.com/JE99s/Endpoint_Management_with_OSQuery) 
 - [Query Searches with Splunk] 
-- <b>Coding</b>
-  - [Simple & Fun Higher or Lower Game With Python]
+
+
+<h2>Coding</h2>
+
+- [Simple & Fun Higher or Lower Game With Python]
 
 
 <h2>📃Certifications</h2>
