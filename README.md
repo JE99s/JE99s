@@ -58,7 +58,7 @@
 <h2>📚 My "Must-Reads"</h2>
 
 -  [The Cuckoo's Egg: Tracking a Spy Through the Maze of Computer Espionage](https://www.amazon.com/Cuckoos-Egg-Tracking-Computer-Espionage/dp/1416507787)
-    -  [My Thoughts]()
+    -  [My Thoughts](https://medium.com/@jl620695lueva/review-cuckoos-egg-3fcffa34c920)
 
 <h2> 🤳 Connect with me:</h2>
 
