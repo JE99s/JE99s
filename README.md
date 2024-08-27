@@ -24,6 +24,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
+-  [Threat Hunting in Memory with Volatility](https://github.com/JE99s/Threat-Hunting-in-Memory-with-Volatility)
 -  [DIY Virtual Cybersecurity Lab](https://github.com/JE99s/DIY-Virtualized-Cyber-Lab)
 - <b>Exploiting Metasploitable 2 Vulnerabilities</b>
   - [A Little Bit of Burp Suite](https://github.com/JE99s/A_lil_of_BurpSuite)
