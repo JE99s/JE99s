@@ -58,7 +58,8 @@
 <h2>📚 My "Must-Reads"</h2>
 
 -  [The Cuckoo's Egg: Tracking a Spy Through the Maze of Computer Espionage](https://www.amazon.com/Cuckoos-Egg-Tracking-Computer-Espionage/dp/1416507787)
-  -  [My Thoughts]()
+    -  [My Thoughts]()
+
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="JacobLuevanos | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
